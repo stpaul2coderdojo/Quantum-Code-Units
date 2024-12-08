@@ -1,15 +1,3 @@
-To add a `README.md` file to your GitHub repository, follow these steps:
-
-### Steps to Add `README.md`
-
-1. **Create the `README.md` file**:
-   In your local repository directory, create a `README.md` file:
-   ```bash
-   touch README.md
-   ```
-
-2. **Add content to the `README.md` file**:
-   Open the `README.md` file in a text editor, and add details about your project. Here's a sample structure:
 
    ```markdown
    # Quantum A* Search Algorithm
